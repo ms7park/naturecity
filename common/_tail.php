@@ -154,7 +154,7 @@
 </script>
 <script src="./js/style.min.js" id="astra-theme-js-js"></script>
 <script id="wp_slimstat-js-extra">
-    var SlimStatParams = {"ajaxurl":"http:\/\/xn--950b194afhc3zb7zcq4i3ym.com\/wp-admin\/admin-ajax.php","baseurl":"\/","dnt":"noslimstat,ab-item","ci":"YTozOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicGFnZSI7czoxMDoiY29udGVudF9pZCI7aToxNjc2NjtzOjY6ImF1dGhvciI7czo4OiJidGhfZzA5NSI7fQ--.7cbb8eb92752f0a26fbd57b514622328"};
+    var SlimStatParams = {"ajaxurl":"http:\/\/naturecity.xyz\/admin\/admin-ajax.php","baseurl":"\/","dnt":"noslimstat,ab-item","ci":"YTozOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicGFnZSI7czoxMDoiY29udGVudF9pZCI7aToxNjc2NjtzOjY6ImF1dGhvciI7czo4OiJidGhfZzA5NSI7fQ--.7cbb8eb92752f0a26fbd57b514622328"};
 </script>
 <script src="./js/wp-slimstat.min.js" id="wp_slimstat-js"></script>
 <script src="./js/jquery.smartmenus.min.js" id="smartmenus-js"></script>
@@ -162,7 +162,7 @@
 <script src="./js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
 <script src="./js/jquery.sticky.min.js" id="elementor-sticky-js"></script>
 <script id="elementor-pro-frontend-js-before">
-    var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/xn--950b194afhc3zb7zcq4i3ym.com\/wp-admin\/admin-ajax.php","nonce":"7249608c15","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"ko_KR","app_id":""}};
+    var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/naturecity.xyz\/admin\/admin-ajax.php","nonce":"7249608c15","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"ko_KR","app_id":""}};
 </script>
 <script src="./js/frontend.min.js" id="elementor-pro-frontend-js"></script>
 <script src="./js/core.min.js" id="jquery-ui-core-js"></script>
