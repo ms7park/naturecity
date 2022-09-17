@@ -70,9 +70,9 @@
                                                                     <div class="elementor-widget-container">
                                                                         <ul class="elementor-icon-list-items elementor-inline-items">
                                                                             <li class="elementor-icon-list-item">
-                                                                                <a href="tel:1688-8343">						<span class="elementor-icon-list-icon">
+                                                                                <a href="tel:010-3235-0049">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
-                                                                                    <span class="elementor-icon-list-text"><span style="font-size: 0.7em;"></span>1688-8343</span>
+                                                                                    <span class="elementor-icon-list-text"><span style="font-size: 0.7em;"></span>010-3235-0049</span>
                                                                                 </a>
                                                                             </li>
                                                                         </ul>
@@ -100,9 +100,9 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="tel:1688-8343">						<span class="elementor-icon-list-icon">
+                                                        <a href="tel:010-3235-0049">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
-                                                            <span class="elementor-icon-list-text"><span class="txt07"></span>1688-8343<span class="txt06"> 연결</span></span>
+                                                            <span class="elementor-icon-list-text"><span class="txt07"></span>010-3235-0049<span class="txt06"> 연결</span></span>
                                                         </a>
                                                     </li>
                                                 </ul>
