@@ -118,7 +118,7 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="http://xn--950b194afhc3zb7zcq4i3ym.com/contact/">						<span class="elementor-icon-list-icon">
+                                                        <a href="/05.html">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-pen"></i>						</span>
                                                             <span class="elementor-icon-list-text">상담/방문<span class="txt06"> 예약</span></span>
                                                         </a>
@@ -216,7 +216,7 @@
                                     <div class="elementor-element elementor-element-1b444ddd elementor-align-center elementor-widget elementor-widget-button animated fadeInDown" data-id="1b444ddd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="http://xn--950b194afhc3zb7zcq4i3ym.com/contact/" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+                                                <a href="/05.html" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fas fa-check"></i>			</span>
