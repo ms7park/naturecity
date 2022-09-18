@@ -182,63 +182,89 @@
 
 
 
-<div class="dialog-widget dialog-lightbox-widget dialog-type-buttons dialog-type-lightbox elementor-popup-modal" id="elementor-popup-modal-16968" style=""><div class="dialog-widget-content dialog-lightbox-widget-content animated"><div class="dialog-header dialog-lightbox-header"></div><div class="dialog-message dialog-lightbox-message"><div data-elementor-type="popup" data-elementor-id="16968" class="elementor elementor-16968 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_mobile&quot;:&quot;fadeIn&quot;,&quot;prevent_close_on_background_click&quot;:&quot;yes&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;devices&quot;:&quot;yes&quot;,&quot;devices_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}}" style="display: block;">
-    <div class="elementor-inner">
-        <div class="elementor-section-wrap">
-            <section class="elementor-element elementor-element-dc542a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="dc542a8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-container elementor-column-gap-no">
-                    <div class="elementor-row">
-                        <div class="elementor-element elementor-element-6763f435 elementor-column elementor-col-100 elementor-top-column" data-id="6763f435" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            <div class="elementor-column-wrap  elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-7b7689c0 elementor-widget elementor-widget-image" data-id="7b7689c0" data-element_type="widget" data-widget_type="image.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-image">
-                                                <img width="192" height="46" src="./images/nci-logo.png" class="attachment-full size-full" alt="" loading="lazy">											</div>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-37cebe9d d-word elementor-widget elementor-widget-heading" data-id="37cebe9d" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h6 class="elementor-heading-title elementor-size-default">여주의 새로운 도시!</h6>		</div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-31e47572 d-word elementor-widget elementor-widget-heading" data-id="31e47572" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h6 class="elementor-heading-title elementor-size-default">안정적 전원생활 최적 기회!</h6>		</div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-11e23bab d-word elementor-widget elementor-widget-heading" data-id="11e23bab" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h6 class="elementor-heading-title elementor-size-default">타운하우스 + 스마트팜 수익까지!</h6>		</div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-49a9bd7 elementor-widget elementor-widget-heading" data-id="49a9bd7" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h6 class="elementor-heading-title elementor-size-default">대지 340만평 | 12,000세대 예정 | 22년 8월 착공예정</h6>		</div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-1b444ddd elementor-align-center elementor-widget elementor-widget-button animated fadeInDown" data-id="1b444ddd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
-                                        <div class="elementor-widget-container">
-                                            <div class="elementor-button-wrapper">
-                                                <a href="/05.html" class="elementor-button-link elementor-button elementor-size-xs" role="button">
-                                                    <span class="elementor-button-content-wrapper">
-                                                        <span class="elementor-button-icon elementor-align-icon-left">
-                                                            <i aria-hidden="true" class="fas fa-check"></i>			</span>
-                                                        <span class="elementor-button-text">상담/방문예약 신청</span>
-                                                    </span>
-                                                </a>
+<div class="dialog-widget dialog-lightbox-widget dialog-type-buttons dialog-type-lightbox elementor-popup-modal" id="elementor-popup-modal-16968" style="">
+    <div class="dialog-widget-content dialog-lightbox-widget-content animated">
+        <div class="dialog-header dialog-lightbox-header"></div>
+        <div class="dialog-message dialog-lightbox-message">
+            <div data-elementor-type="popup" data-elementor-id="16968" class="elementor elementor-16968 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_mobile&quot;:&quot;fadeIn&quot;,&quot;prevent_close_on_background_click&quot;:&quot;yes&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;devices&quot;:&quot;yes&quot;,&quot;devices_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}}" style="display: block;">
+                <div class="elementor-inner">
+                    <div class="elementor-section-wrap">
+                        <section class="elementor-element elementor-element-dc542a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="dc542a8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-row">
+                                    <div class="elementor-element elementor-element-6763f435 elementor-column elementor-col-100 elementor-top-column" data-id="6763f435" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                        <div class="elementor-column-wrap  elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-7b7689c0 elementor-widget elementor-widget-image" data-id="7b7689c0" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-image">
+                                                            <img width="192" height="46" src="./images/nci-logo.png" class="attachment-full size-full" alt="" loading="lazy">											</div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-37cebe9d d-word elementor-widget elementor-widget-heading" data-id="37cebe9d" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default">여주의 새로운 도시!</h6>		</div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-31e47572 d-word elementor-widget elementor-widget-heading" data-id="31e47572" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default">안정적 전원생활 최적 기회!</h6>		</div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-11e23bab d-word elementor-widget elementor-widget-heading" data-id="11e23bab" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default">타운하우스 + 스마트팜 수익까지!</h6>		</div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-49a9bd7 elementor-widget elementor-widget-heading" data-id="49a9bd7" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default">대지 340만평 | 12,000세대 예정 | 22년 8월 착공예정</h6>		</div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-1b444ddd elementor-align-center elementor-widget elementor-widget-button animated fadeInDown" data-id="1b444ddd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="/05.html" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-icon elementor-align-icon-left">
+                                                                        <i aria-hidden="true" class="fas fa-check"></i>			</span>
+                                                                    <span class="elementor-button-text">상담/방문예약 신청</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-7797624f elementor-widget elementor-widget-heading" data-id="7797624f" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default">※ 원할한 상담을 위해서 방문예약제 운영중입니다.<br>반드시 미리 상담예약후 홍보관을 찾아주시기 바랍니다.</h6>		</div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="elementor-element elementor-element-7797624f elementor-widget elementor-widget-heading" data-id="7797624f" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h6 class="elementor-heading-title elementor-size-default">※ 원할한 상담을 위해서 방문예약제 운영중입니다.<br>반드시 미리 상담예약후 홍보관을 찾아주시기 바랍니다.</h6>		</div>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="elementor-element elementor-element-23f68c25 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="23f68c25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-row">
+                                    <div class="elementor-element elementor-element-7284e6a3 elementor-column elementor-col-100 elementor-top-column" data-id="7284e6a3" data-element_type="column">
+                                        <div class="elementor-column-wrap  elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-39c8019b d-word elementor-widget elementor-widget-heading" data-id="39c8019b" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default"><span class="txt05">/모델하우스/ &nbsp; </span><span class="txt08"></span>010-3235-0049</h6>		</div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </section>
                     </div>
                 </div>
-            </section>
+            </div>
+
         </div>
+        <div class="dialog-buttons-wrapper dialog-lightbox-buttons-wrapper"></div>
+        <div class="dialog-close-button dialog-lightbox-close-button"><i class="eicon-close"></i></div>
     </div>
-</div></div><div class="dialog-buttons-wrapper dialog-lightbox-buttons-wrapper"></div><div class="dialog-close-button dialog-lightbox-close-button"><i class="eicon-close"></i></div></div></div>
+</div>
 
 
 
