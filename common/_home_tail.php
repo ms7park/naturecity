@@ -217,11 +217,11 @@
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
                                                 <a href="/05.html" class="elementor-button-link elementor-button elementor-size-xs" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-left">
-				<i aria-hidden="true" class="fas fa-check"></i>			</span>
-						<span class="elementor-button-text">상담/방문예약 신청</span>
-		</span>
+                                                    <span class="elementor-button-content-wrapper">
+                                                        <span class="elementor-button-icon elementor-align-icon-left">
+                                                            <i aria-hidden="true" class="fas fa-check"></i>			</span>
+                                                        <span class="elementor-button-text">상담/방문예약 신청</span>
+                                                    </span>
                                                 </a>
                                             </div>
                                         </div>
@@ -236,27 +236,9 @@
                     </div>
                 </div>
             </section>
-            <section class="elementor-element elementor-element-23f68c25 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="23f68c25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="elementor-container elementor-column-gap-no">
-                    <div class="elementor-row">
-                        <div class="elementor-element elementor-element-7284e6a3 elementor-column elementor-col-100 elementor-top-column" data-id="7284e6a3" data-element_type="column">
-                            <div class="elementor-column-wrap  elementor-element-populated">
-                                <div class="elementor-widget-wrap">
-                                    <div class="elementor-element elementor-element-39c8019b d-word elementor-widget elementor-widget-heading" data-id="39c8019b" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h6 class="elementor-heading-title elementor-size-default"><span class="txt05">/모델하우스/ &nbsp; </span><span class="txt08"></span>010-3235-0049</h6>		</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
         </div>
     </div>
 </div></div><div class="dialog-buttons-wrapper dialog-lightbox-buttons-wrapper"></div><div class="dialog-close-button dialog-lightbox-close-button"><i class="eicon-close"></i></div></div></div>
-
-
 
 
 
