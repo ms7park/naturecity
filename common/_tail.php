@@ -70,8 +70,11 @@
                                                                     <div class="elementor-widget-container">
                                                                         <ul class="elementor-icon-list-items elementor-inline-items">
                                                                             <li class="elementor-icon-list-item">
-                                                                                <a href="tel:010-3235-0049">						<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+                                                                                <span class="elementor-icon-list-text"><span style="font-size: 0.7em;"></span>본부장 박원식</span>
+                                                                            </li>
+                                                                            <li class="elementor-icon-list-item">
+                                                                                <a href="tel:010-3235-0049">
+                                                                                    <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-phone-alt"></i></span>
                                                                                     <span class="elementor-icon-list-text"><span style="font-size: 0.7em;"></span>010-3235-0049</span>
                                                                                 </a>
                                                                             </li>
@@ -100,8 +103,11 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="tel:010-3235-0049">						<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+                                                        <span class="elementor-icon-list-text"><span class="txt07"></span>본부장 박원식<span class="txt06"> </span></span>
+                                                    </li>
+                                                    <li class="elementor-icon-list-item">
+                                                        <a href="tel:010-3235-0049">
+                                                            <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-phone-alt"></i></span>
                                                             <span class="elementor-icon-list-text"><span class="txt07"></span>010-3235-0049<span class="txt06"> 연결</span></span>
                                                         </a>
                                                     </li>
