@@ -35,7 +35,7 @@
     <meta name="twitter:title" content="여주 네이처시티">
     <meta name="twitter:description" content="여주네이처시티 모델하우스 상담방문예약처 타운하우스 전원주택과 스마트팜 첨단영농시설 귀촌귀농 시스템 기반 여주시 새로운 라이프스타일 도시 평면 오시는길">
     <meta name="twitter:image" content="/images/nci-gm.jpg">
-    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"/02_01.html/schema/person/e6c23b7e977027982f341de27142f097","name":"\uc5ec\uc8fc \ub124\uc774\ucc98\uc2dc\ud2f0","logo":{"@id":"/02_01.htmlpersonlogo"}},{"@type":"WebSite","@id":"/02_01.htmlwebsite","url":"/","name":"\uc5ec\uc8fc \ub124\uc774\ucc98\uc2dc\ud2f0","description":"","publisher":{"@id":"/02_01.html/schema/person/e6c23b7e977027982f341de27142f097"},"potentialAction":[{"@type":"SearchAction","target":"/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ko-KR"},{"@type":"ImageObject","@id":"/02_01.htmlprimaryimage","inLanguage":"ko-KR","url":"/images/nci-sec02_01.jpg","width":635,"height":448},{"@type":"WebPage","@id":"/02_01.htmlwebpage","url":"/","name":"\uc5ec\uc8fc \ub124\uc774\ucc98\uc2dc\ud2f0","isPartOf":{"@id":"/02_01.htmlwebsite"},"about":{"@id":"/02_01.html/schema/person/e6c23b7e977027982f341de27142f097"},"primaryImageOfPage":{"@id":"/02_01.htmlprimaryimage"},"datePublished":"2022-05-04T05:12:17+00:00","dateModified":"2022-05-07T12:53:22+00:00","description":"\uc5ec\uc8fc\ub124\uc774\ucc98\uc2dc\ud2f0 \ubaa8\ub378\ud558\uc6b0\uc2a4 \uc0c1\ub2f4\ubc29\ubb38\uc608\uc57d\ucc98 \ud0c0\uc6b4\ud558\uc6b0\uc2a4 \uc804\uc6d0\uc8fc\ud0dd\uacfc \uc2a4\ub9c8\ud2b8\ud31c \ucca8\ub2e8\uc601\ub18d\uc2dc\uc124 \uadc0\ucd0c\uadc0\ub18d \uc2dc\uc2a4\ud15c \uae30\ubc18 \uc5ec\uc8fc\uc2dc \uc0c8\ub85c\uc6b4 \ub77c\uc774\ud504\uc2a4\ud0c0\uc77c \ub3c4\uc2dc \ud3c9\uba74 \uc624\uc2dc\ub294\uae38","inLanguage":"ko-KR","potentialAction":[{"@type":"ReadAction","target":["/"]}]}]}</script>
+    <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"/02_01.php/schema/person/e6c23b7e977027982f341de27142f097","name":"\uc5ec\uc8fc \ub124\uc774\ucc98\uc2dc\ud2f0","logo":{"@id":"/02_01.phppersonlogo"}},{"@type":"WebSite","@id":"/02_01.phpwebsite","url":"/","name":"\uc5ec\uc8fc \ub124\uc774\ucc98\uc2dc\ud2f0","description":"","publisher":{"@id":"/02_01.php/schema/person/e6c23b7e977027982f341de27142f097"},"potentialAction":[{"@type":"SearchAction","target":"/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ko-KR"},{"@type":"ImageObject","@id":"/02_01.phpprimaryimage","inLanguage":"ko-KR","url":"/images/nci-sec02_01.jpg","width":635,"height":448},{"@type":"WebPage","@id":"/02_01.phpwebpage","url":"/","name":"\uc5ec\uc8fc \ub124\uc774\ucc98\uc2dc\ud2f0","isPartOf":{"@id":"/02_01.phpwebsite"},"about":{"@id":"/02_01.php/schema/person/e6c23b7e977027982f341de27142f097"},"primaryImageOfPage":{"@id":"/02_01.phpprimaryimage"},"datePublished":"2022-05-04T05:12:17+00:00","dateModified":"2022-05-07T12:53:22+00:00","description":"\uc5ec\uc8fc\ub124\uc774\ucc98\uc2dc\ud2f0 \ubaa8\ub378\ud558\uc6b0\uc2a4 \uc0c1\ub2f4\ubc29\ubb38\uc608\uc57d\ucc98 \ud0c0\uc6b4\ud558\uc6b0\uc2a4 \uc804\uc6d0\uc8fc\ud0dd\uacfc \uc2a4\ub9c8\ud2b8\ud31c \ucca8\ub2e8\uc601\ub18d\uc2dc\uc124 \uadc0\ucd0c\uadc0\ub18d \uc2dc\uc2a4\ud15c \uae30\ubc18 \uc5ec\uc8fc\uc2dc \uc0c8\ub85c\uc6b4 \ub77c\uc774\ud504\uc2a4\ud0c0\uc77c \ub3c4\uc2dc \ud3c9\uba74 \uc624\uc2dc\ub294\uae38","inLanguage":"ko-KR","potentialAction":[{"@type":"ReadAction","target":["/"]}]}]}</script>
     <!-- / Yoast SEO plugin. -->
 
 
@@ -1238,7 +1238,7 @@
     </style></head>
 <body itemtype="https://schema.org/WebPage" itemscope="itemscope" class="home page-template page-template-elementor_header_footer page page-id-16766 wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-2.4.5 ast-header-custom-item-inside ast-single-post ast-mobile-inherit-site-logo ast-inherit-site-logo-transparent responsive-menu-slide-left elementor-default elementor-template-full-width elementor-kit-11602 elementor-page elementor-page-16766 dialog-body dialog-lightbox-body dialog-container dialog-lightbox-container ast-mouse-clicked" style="cursor: default;" data-elementor-device-mode="desktop">
 <div id="page" class="hfeed site">
-    <a class="skip-link screen-reader-text" href="/02_01.htmlcontent">콘텐츠로 건너뛰기</a>
+    <a class="skip-link screen-reader-text" href="/02_01.phpcontent">콘텐츠로 건너뛰기</a>
 
 
     <div data-elementor-type="header" data-elementor-id="16747" class="elementor elementor-16747 elementor-location-header" data-elementor-settings="[]">
@@ -1267,48 +1267,48 @@
                                         <div class="elementor-element elementor-element-91f1dad elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="91f1dad" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
                                             <div class="elementor-widget-container">
                                                 <nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-91f1dad" class="elementor-nav-menu" data-smartmenus-id="1663366168904931"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16766 current_page_item menu-item-16782"><a href="/" aria-current="page" class="elementor-item elementor-item-active">홈</a></li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.html" class="elementor-item">사업개요</a></li>
-                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.html" class="elementor-item elementor-item-anchor has-submenu" id="sm-1663366168904931-1" aria-haspopup="true" aria-controls="sm-1663366168904931-2" aria-expanded="false">프리미엄<span class="sub-arrow"><i class="fa"></i></span></a>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.php" class="elementor-item">사업개요</a></li>
+                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.php" class="elementor-item elementor-item-anchor has-submenu" id="sm-1663366168904931-1" aria-haspopup="true" aria-controls="sm-1663366168904931-2" aria-expanded="false">프리미엄<span class="sub-arrow"><i class="fa"></i></span></a>
                                                         <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-1663366168904931-2" role="group" aria-hidden="true" aria-labelledby="sm-1663366168904931-1" aria-expanded="false">
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.html" class="elementor-sub-item">입지가치</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.html" class="elementor-sub-item">주요사업</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.php" class="elementor-sub-item">입지가치</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.php" class="elementor-sub-item">주요사업</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.html" class="elementor-item">특화설계</a></li>
-                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.html" class="elementor-item elementor-item-anchor has-submenu" id="sm-1663366168904931-3" aria-haspopup="true" aria-controls="sm-1663366168904931-4" aria-expanded="false">평면<span class="sub-arrow"><i class="fa"></i></span></a>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.php" class="elementor-item">특화설계</a></li>
+                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.php" class="elementor-item elementor-item-anchor has-submenu" id="sm-1663366168904931-3" aria-haspopup="true" aria-controls="sm-1663366168904931-4" aria-expanded="false">평면<span class="sub-arrow"><i class="fa"></i></span></a>
                                                         <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-1663366168904931-4" role="group" aria-hidden="true" aria-labelledby="sm-1663366168904931-3" aria-expanded="false">
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.html" class="elementor-sub-item">단독주택A</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.html" class="elementor-sub-item">단독주택B</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.html" class="elementor-sub-item">단독주택C</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.html" class="elementor-sub-item">테라스하우스A</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.html" class="elementor-sub-item">테라스하우스B</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.php" class="elementor-sub-item">단독주택A</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.php" class="elementor-sub-item">단독주택B</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.php" class="elementor-sub-item">단독주택C</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.php" class="elementor-sub-item">테라스하우스A</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.php" class="elementor-sub-item">테라스하우스B</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.html" class="elementor-item">상담/방문예약</a></li>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.php" class="elementor-item">상담/방문예약</a></li>
                                                 </ul></nav>
                                                 <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
                                                     <i class="eicon-menu-bar" aria-hidden="true"></i>
                                                     <span class="elementor-screen-only">Menu</span>
                                                 </div>
                                                 <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-91f1dad" class="elementor-nav-menu" data-smartmenus-id="16633661689074414"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16766 current_page_item menu-item-16782"><a href="/" aria-current="page" class="elementor-item elementor-item-active">홈</a></li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.html" class="elementor-item">사업개요</a></li>
-                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.html" class="elementor-item elementor-item-anchor has-submenu" id="sm-16633661689074414-1" aria-haspopup="true" aria-controls="sm-16633661689074414-2" aria-expanded="false">프리미엄<span class="sub-arrow"><i class="fa"></i></span></a>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.php" class="elementor-item">사업개요</a></li>
+                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.php" class="elementor-item elementor-item-anchor has-submenu" id="sm-16633661689074414-1" aria-haspopup="true" aria-controls="sm-16633661689074414-2" aria-expanded="false">프리미엄<span class="sub-arrow"><i class="fa"></i></span></a>
                                                         <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16633661689074414-2" role="group" aria-hidden="true" aria-labelledby="sm-16633661689074414-1" aria-expanded="false">
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.html" class="elementor-sub-item">입지가치</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.html" class="elementor-sub-item">주요사업</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.php" class="elementor-sub-item">입지가치</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.php" class="elementor-sub-item">주요사업</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.html" class="elementor-item">특화설계</a></li>
-                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.html" class="elementor-item elementor-item-anchor has-submenu" id="sm-16633661689074414-3" aria-haspopup="true" aria-controls="sm-16633661689074414-4" aria-expanded="false">평면<span class="sub-arrow"><i class="fa"></i></span></a>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.php" class="elementor-item">특화설계</a></li>
+                                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.php" class="elementor-item elementor-item-anchor has-submenu" id="sm-16633661689074414-3" aria-haspopup="true" aria-controls="sm-16633661689074414-4" aria-expanded="false">평면<span class="sub-arrow"><i class="fa"></i></span></a>
                                                         <ul class="sub-menu elementor-nav-menu--dropdown" id="sm-16633661689074414-4" role="group" aria-hidden="true" aria-labelledby="sm-16633661689074414-3" aria-expanded="false">
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.html" class="elementor-sub-item">단독주택A</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.html" class="elementor-sub-item">단독주택B</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.html" class="elementor-sub-item">단독주택C</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.html" class="elementor-sub-item">테라스하우스A</a></li>
-                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.html" class="elementor-sub-item">테라스하우스B</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.php" class="elementor-sub-item">단독주택A</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.php" class="elementor-sub-item">단독주택B</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.php" class="elementor-sub-item">단독주택C</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.php" class="elementor-sub-item">테라스하우스A</a></li>
+                                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.php" class="elementor-sub-item">테라스하우스B</a></li>
                                                         </ul>
                                                     </li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.html" class="elementor-item">상담/방문예약</a></li>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.php" class="elementor-item">상담/방문예약</a></li>
                                                 </ul></nav>
                                             </div>
                                         </div>
@@ -1357,48 +1357,48 @@
                                     <div class="elementor-element elementor-element-91f1dad elementor-nav-menu__align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="91f1dad" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
                                         <div class="elementor-widget-container">
                                             <nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-91f1dad" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16766 current_page_item menu-item-16782"><a href="/" aria-current="page" class="elementor-item elementor-item-active">홈</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.html" class="elementor-item">사업개요</a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.html" class="elementor-item elementor-item-anchor">프리미엄</a>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.php" class="elementor-item">사업개요</a></li>
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.php" class="elementor-item elementor-item-anchor">프리미엄</a>
                                                     <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.html" class="elementor-sub-item">입지가치</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.html" class="elementor-sub-item">주요사업</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.php" class="elementor-sub-item">입지가치</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.php" class="elementor-sub-item">주요사업</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.html" class="elementor-item">특화설계</a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.html" class="elementor-item elementor-item-anchor">평면</a>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.php" class="elementor-item">특화설계</a></li>
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.php" class="elementor-item elementor-item-anchor">평면</a>
                                                     <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.html" class="elementor-sub-item">단독주택A</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.html" class="elementor-sub-item">단독주택B</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.html" class="elementor-sub-item">단독주택C</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.html" class="elementor-sub-item">테라스하우스A</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.html" class="elementor-sub-item">테라스하우스B</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.php" class="elementor-sub-item">단독주택A</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.php" class="elementor-sub-item">단독주택B</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.php" class="elementor-sub-item">단독주택C</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.php" class="elementor-sub-item">테라스하우스A</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.php" class="elementor-sub-item">테라스하우스B</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.html" class="elementor-item">상담/방문예약</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.php" class="elementor-item">상담/방문예약</a></li>
                                             </ul></nav>
                                             <div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
                                                 <i class="eicon-menu-bar" aria-hidden="true"></i>
                                                 <span class="elementor-screen-only">Menu</span>
                                             </div>
                                             <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-91f1dad" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16766 current_page_item menu-item-16782"><a href="/" aria-current="page" class="elementor-item elementor-item-active">홈</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.html" class="elementor-item">사업개요</a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.html" class="elementor-item elementor-item-anchor">프리미엄</a>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16793"><a href="/01.php" class="elementor-item">사업개요</a></li>
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16972"><a href="/02_01.php" class="elementor-item elementor-item-anchor">프리미엄</a>
                                                     <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.html" class="elementor-sub-item">입지가치</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.html" class="elementor-sub-item">주요사업</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16863"><a href="/02_01.php" class="elementor-sub-item">입지가치</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16973"><a href="/02_02.php" class="elementor-sub-item">주요사업</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.html" class="elementor-item">특화설계</a></li>
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.html" class="elementor-item elementor-item-anchor">평면</a>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16952"><a href="/03.php" class="elementor-item">특화설계</a></li>
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-16887"><a href="/04_01.php" class="elementor-item elementor-item-anchor">평면</a>
                                                     <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.html" class="elementor-sub-item">단독주택A</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.html" class="elementor-sub-item">단독주택B</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.html" class="elementor-sub-item">단독주택C</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.html" class="elementor-sub-item">테라스하우스A</a></li>
-                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.html" class="elementor-sub-item">테라스하우스B</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16938"><a href="/04_01.php" class="elementor-sub-item">단독주택A</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16937"><a href="/04_02.php" class="elementor-sub-item">단독주택B</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16936"><a href="/04_03.php" class="elementor-sub-item">단독주택C</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16935"><a href="/04_04.php" class="elementor-sub-item">테라스하우스A</a></li>
+                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="/04_05.php" class="elementor-sub-item">테라스하우스B</a></li>
                                                     </ul>
                                                 </li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.html" class="elementor-item">상담/방문예약</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16805"><a href="/05.php" class="elementor-item">상담/방문예약</a></li>
                                             </ul></nav>
                                         </div>
                                     </div>
@@ -1455,7 +1455,7 @@
 
 
                                                         </div>
-                                                        <ul id="responsive-menu" role="menubar" aria-label="nci-menu"><li id="responsive-menu-item-16782" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16766 current_page_item responsive-menu-item responsive-menu-current-item" role="none"><a href="/" class="responsive-menu-item-link" tabindex="1" role="menuitem">홈</a></li><li id="responsive-menu-item-16793" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/01.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">사업개요</a></li><li id="responsive-menu-item-16972" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" role="none"><a href="/02_01.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">프리미엄<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul aria-label="프리미엄" role="menu" class="responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open"><li id="responsive-menu-item-16863" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/02_01.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">입지가치</a></li><li id="responsive-menu-item-16973" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/02_02.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">주요사업</a></li></ul></li><li id="responsive-menu-item-16952" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/03.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">특화설계</a></li><li id="responsive-menu-item-16887" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" role="none"><a href="/02_01.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">평면<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul aria-label="평면" role="menu" class="responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open"><li id="responsive-menu-item-16938" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_01.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">단독주택A</a></li><li id="responsive-menu-item-16937" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_02.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">단독주택B</a></li><li id="responsive-menu-item-16936" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_03.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">단독주택C</a></li><li id="responsive-menu-item-16935" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_04.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">테라스하우스A</a></li><li id="responsive-menu-item-16934" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_05.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">테라스하우스B</a></li></ul></li><li id="responsive-menu-item-16805" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/05.html" class="responsive-menu-item-link" tabindex="1" role="menuitem">상담/방문예약</a></li></ul>                                                                    <div id="responsive-menu-additional-content"></div>                        </div>
+                                                        <ul id="responsive-menu" role="menubar" aria-label="nci-menu"><li id="responsive-menu-item-16782" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-16766 current_page_item responsive-menu-item responsive-menu-current-item" role="none"><a href="/" class="responsive-menu-item-link" tabindex="1" role="menuitem">홈</a></li><li id="responsive-menu-item-16793" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/01.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">사업개요</a></li><li id="responsive-menu-item-16972" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" role="none"><a href="/02_01.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">프리미엄<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul aria-label="프리미엄" role="menu" class="responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open"><li id="responsive-menu-item-16863" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/02_01.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">입지가치</a></li><li id="responsive-menu-item-16973" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/02_02.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">주요사업</a></li></ul></li><li id="responsive-menu-item-16952" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/03.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">특화설계</a></li><li id="responsive-menu-item-16887" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" role="none"><a href="/02_01.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">평면<div class="responsive-menu-subarrow responsive-menu-subarrow-active">▲</div></a><ul aria-label="평면" role="menu" class="responsive-menu-submenu responsive-menu-submenu-depth-1 responsive-menu-submenu-open"><li id="responsive-menu-item-16938" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_01.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">단독주택A</a></li><li id="responsive-menu-item-16937" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_02.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">단독주택B</a></li><li id="responsive-menu-item-16936" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_03.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">단독주택C</a></li><li id="responsive-menu-item-16935" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_04.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">테라스하우스A</a></li><li id="responsive-menu-item-16934" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/04_05.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">테라스하우스B</a></li></ul></li><li id="responsive-menu-item-16805" class=" menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" role="none"><a href="/05.php" class="responsive-menu-item-link" tabindex="1" role="menuitem">상담/방문예약</a></li></ul>                                                                    <div id="responsive-menu-additional-content"></div>                        </div>
                                                 </div>
                                                 </div>
                                             </div>
@@ -1635,7 +1635,7 @@
                                                 <div class="elementor-element elementor-element-7c8be96 elementor-mobile-align-center elementor-tablet-align-center elementor-widget elementor-widget-button" data-id="7c8be96" data-element_type="widget" data-widget_type="button.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-button-wrapper">
-                                                            <a href="/05.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+                                                            <a href="/05.php" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
@@ -1862,8 +1862,10 @@
                                                                     <div class="elementor-widget-container">
                                                                         <ul class="elementor-icon-list-items elementor-inline-items">
                                                                             <li class="elementor-icon-list-item">
-                                                                                <a href="tel:010-3235-0049">						<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+                                                                                <span class="elementor-icon-list-text"><span style="font-size: 0.7em;"></span>본부장 박원식</span>
+                                                                            </li>
+                                                                            <li class="elementor-icon-list-item">
+                                                                                <a href="tel:010-3235-0049"><span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-phone-alt"></i></span>
                                                                                     <span class="elementor-icon-list-text"><span style="font-size: 0.7em;"></span>010-3235-0049</span>
                                                                                 </a>
                                                                             </li>
@@ -1892,8 +1894,11 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="tel:010-3235-0049">						<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+                                                        <span class="elementor-icon-list-text"><span class="txt07"></span>본부장 박원식<span class="txt06"> </span></span>
+                                                    </li>
+                                                    <li class="elementor-icon-list-item">
+                                                        <a href="tel:010-3235-0049">
+                                                            <span class="elementor-icon-list-icon"><i aria-hidden="true" class="fas fa-phone-alt"></i></span>
                                                             <span class="elementor-icon-list-text"><span class="txt07"></span>010-3235-0049<span class="txt06"> 연결</span></span>
                                                         </a>
                                                     </li>
@@ -1910,7 +1915,7 @@
                                             <div class="elementor-widget-container">
                                                 <ul class="elementor-icon-list-items">
                                                     <li class="elementor-icon-list-item">
-                                                        <a href="/05.html">						<span class="elementor-icon-list-icon">
+                                                        <a href="/05.php">						<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-pen"></i>						</span>
                                                             <span class="elementor-icon-list-text">상담/방문<span class="txt06"> 예약</span></span>
                                                         </a>
@@ -1970,6 +1975,65 @@
     /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 </script>
 
+
+<div class="dialog-widget dialog-lightbox-widget dialog-type-buttons dialog-type-lightbox elementor-popup-modal" id="elementor-popup-modal-99999" style="display:none">
+    <div class="dialog-widget-content dialog-lightbox-widget-content animated">
+        <div class="dialog-header dialog-lightbox-header"></div>
+        <div class="dialog-message dialog-lightbox-message">
+            <div data-elementor-type="popup" data-elementor-id="16968" class="elementor elementor-16968 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_mobile&quot;:&quot;fadeIn&quot;,&quot;prevent_close_on_background_click&quot;:&quot;yes&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.2,&quot;sizes&quot;:[]},&quot;triggers&quot;:{&quot;page_load&quot;:&quot;yes&quot;,&quot;page_load_delay&quot;:0},&quot;timing&quot;:{&quot;devices&quot;:&quot;yes&quot;,&quot;devices_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}}" style="display: block;">
+                <div class="elementor-inner">
+                    <div class="elementor-section-wrap">
+                        <section class="elementor-element elementor-element-dc542a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="dc542a8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-row">
+                                    <div class="elementor-element elementor-element-6763f435 elementor-column elementor-col-100 elementor-top-column" data-id="6763f435" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                        <div class="elementor-column-wrap  elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-7b7689c0 elementor-widget elementor-widget-image" data-id="7b7689c0" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-image">
+                                                            <img width="192" height="46" src="./images/nci-logo.png" class="attachment-full size-full" alt="" loading="lazy">											</div>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-37cebe9d d-word elementor-widget elementor-widget-heading" data-id="37cebe9d" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default">네이처시티 직원모집</h6></div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-49a9bd7 elementor-widget elementor-widget-heading" data-id="49a9bd7" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default">네이처시티오픈 분양직원모집 팀장 개별직원</h6></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="elementor-element elementor-element-23f68c25 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="23f68c25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-row">
+                                    <div class="elementor-element elementor-element-7284e6a3 elementor-column elementor-col-100 elementor-top-column" data-id="7284e6a3" data-element_type="column">
+                                        <div class="elementor-column-wrap  elementor-element-populated">
+                                            <div class="elementor-widget-wrap">
+                                                <div class="elementor-element elementor-element-39c8019b d-word elementor-widget elementor-widget-heading" data-id="39c8019b" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h6 class="elementor-heading-title elementor-size-default"><span class="txt05">/모델하우스/ &nbsp; </span><span class="txt08"></span>010-3235-0049</h6>		</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="dialog-buttons-wrapper dialog-lightbox-buttons-wrapper"></div>
+        <div class="dialog-close-button dialog-lightbox-close-button"><i class="eicon-close"></i></div>
+    </div>
+</div>
 
 </body></html>
 

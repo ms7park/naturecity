@@ -33,7 +33,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-351f52c d-word elementor-widget elementor-widget-heading" data-id="351f52c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_01.html">단독주택A</a></h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_01.php">단독주택A</a></h6>		</div>
 				</div>
 						</div>
 			</div>
@@ -43,7 +43,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-fc7acac d-word elementor-widget elementor-widget-heading" data-id="fc7acac" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_02.html">단독주택B</a></h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_02.php">단독주택B</a></h6>		</div>
 				</div>
 						</div>
 			</div>
@@ -63,7 +63,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-51b1637 d-word elementor-widget elementor-widget-heading" data-id="51b1637" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_04.html">테라스하우스A</a></h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_04.php">테라스하우스A</a></h6>		</div>
 				</div>
 						</div>
 			</div>
@@ -73,7 +73,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-3c07f64 d-word elementor-widget elementor-widget-heading" data-id="3c07f64" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_05.html">테라스하우스B</a></h6>		</div>
+			<h6 class="elementor-heading-title elementor-size-default"><a href="/04_05.php">테라스하우스B</a></h6>		</div>
 				</div>
 						</div>
 			</div>
